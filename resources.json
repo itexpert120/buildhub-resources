@@ -1,0 +1,9 @@
+{
+  [
+    {
+      "name": "Get Started",
+      "bi-icon": "bi-flag",
+      "md-link": "https://raw.githubusercontent.com/itexpert120/buildhub-resources/main/Getting-Started.md"
+    }
+  ]
+}
