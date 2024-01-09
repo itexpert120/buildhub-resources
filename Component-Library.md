@@ -1,3 +1,3 @@
 # Component Library
 
-Link: [/library](Click here!)
+Link: [Click Here](/library)
