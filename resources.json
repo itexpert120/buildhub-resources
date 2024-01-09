@@ -3,5 +3,10 @@
     "name": "Get Started",
     "biIcon": "bi-flag",
     "mdLink": "https://raw.githubusercontent.com/itexpert120/buildhub-resources/main/Getting-Started.md"
+  },
+  {
+    "name": "Library",
+    "biIcon": "bi-collection",
+    "href": "/library"
   }
 ]
